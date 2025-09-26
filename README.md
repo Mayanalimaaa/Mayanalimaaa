@@ -5,7 +5,7 @@
 ## 👋 Olá, eu sou a Mayana ❤️
 
 🎓 **Estudante de Tecnologia em Sistemas para Internet**  
-💡 Apaixonada por desenvolvimento web, criatividade e novos aprendizados!
+💡 Apaixonada  por desenvolvimento web, criatividade e novos aprendizados!
 
 ---
 
