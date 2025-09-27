@@ -1,14 +1,14 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&text=Mayanalimaaa%20no%20GitHub%20%F0%9F%91%A9%F0%9F%92%BB&fontSize=40&fontAlign=50&fontColor=ffffff&stroke=00c6fb&strokeWidth=2&color=0f2027,2c5364,00c6fb" alt="Banner moderno"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&text=Mayana%20no%20GitHub%20%F0%9F%91%A9%F0%9F%92%BB&fontSize=40&fontAlign=50&fontColor=ffffff&stroke=00c6fb&strokeWidth=2&color=0f2027,2c5364,00c6fb" alt="Banner moderno"/>
 
-# 🌟 Mayanalimaaa
+# 🌟 Mayana
 
 🎓 **Estudante de Tecnologia em Sistemas para Internet**
 
 ---
 
-## 🌈 Minhas Habilidades
+##  Minhas Habilidades
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
