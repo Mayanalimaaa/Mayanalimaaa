@@ -1,8 +1,5 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&text=Mayana%20no%20GitHub%20%F0%9F%91%A9%F0%9F%92%BB&fontSize=40&fontAlign=50&fontColor=ffffff&stroke=00c6fb&strokeWidth=2&color=0f2027,2c5364,00c6fb" alt="Banner moderno"/>
-
-# 🌟 Mayana
 
 🎓 **Estudante de Tecnologia em Sistemas para Internet**
 
@@ -17,9 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
 </div>
 
----
 
-## ✨ Sobre mim
 
 - 📚 Sempre aprendendo e em busca de desafios
 - 🚀 Gosto de criar projetos que unem criatividade e tecnologia
