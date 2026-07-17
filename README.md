@@ -1,18 +1,11 @@
-# ✨ Oi, eu sou a Mayana🌷
+## 👋 Olá, eu sou a Mayana Lima
 
-💻 Desenvolvedora apaixonada por tecnologia  
-🌱 Aprendendo algo novo todos os dias  
-☕ Café, código e criatividade  
-🎀 Bem-vindo(a) ao meu cantinho no GitHub
+💻 Desenvolvedora Front-end em formação
 
-### 💕 Tecnologias
+🎓 Tecnóloga em Sistemas para Internet  
+📚 Técnica em Desenvolvimento de Sistemas  
+🚀 Em busca da minha primeira oportunidade na área de tecnologia.
 
-`Python` • `JavaScript` • `HTML` • `CSS` • `Git`
+### 💜 Tecnologias
 
-### 🌸 Contato
-
-📫 mayana.zx@gmail.com
-
----
-
-> "Pequenos passos todos os dias levam a grandes conquistas." ✨
+HTML • CSS • JavaScript • Git • GitHub • Figma
